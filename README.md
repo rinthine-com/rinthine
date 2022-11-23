@@ -1,17 +1,14 @@
-# rinthine is not a social network
+# rinthine
 
-## Freedom of speech shouldn't be jailed in walled gardens.
+The world doesn't really need another Twitter clone, but here we are.
 
-Rintine is a set of APIs to allow people share their thoughts with the world. 
+How is this different?
 
-The premise is that it will act as an open for all database to allow others to build their social network on.
-
-The principles that Rinthine will operate under are:
-
-- Open source
-- Open data
+- It's API only
+- Free as in free speech; with Open Data everyone has access to all data in the network
 - Not for profit
-- No cencorship/moderation, other than abiding to the law
- 
-
+- Implementation on elastic services on AWS
+- All posts are public, live forever (minus GDPR compliance)
+- If it's legal, it's allowed. Further filtering can be done by third-party integrations. Something like ad-block lists
+- Barebones, no DMs, no Cycles, no Verified. Most can again be implemented by third-party lists.
 
